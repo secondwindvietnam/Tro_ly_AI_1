@@ -17,40 +17,39 @@ Thông tin cá nhân:
 
 HƯỚNG DẪN SỬ DỤNG GOOGLE SHEETS
 “GOOLE SHEET THẦN CHƯỠNG”
-I – CÁC THÀNH PHẦN CHÍNH
-1.	Bắt đầu,
-2.	Hàm cơ bản
-3.	FILTER và QUERY
-4.	Ghép Lego
-5.	Nâng cao
-6.	Tổng hợp dữ liệu
-7.	Thực hành
-
+I. CÁC THÀNH PHẦN CHÍNH
+Bắt đầu,
+Hàm cơ bản
+FILTER và QUERY
+Ghép Lego
+Nâng cao
+Tổng hợp dữ liệu
+Thực hành
 II – CHI TIẾT
-o	Bài 01. Mở đầu - Làm quen Google Sheets
-o	Bài 02. Kỹ năng cơ bản
-o	Bài 03. Xác thực dữ liệu (Data Validation)
-o	Bài 04. Công thức mảng cơ bản
-o	Bài 05. UNIQUE, IF, SUMIF, COUNTIF
-o	Bài 06. XLOOKUP
-o	Bài 07. VSTACK, HSTACK
-o	Bài 08. LET, CHOOSECOLS, CHOOSEROWS
-o	Bài 09. XMATCH
-o	Bài 10. Hàm Google Sheets thông dụng khác
-o	Bài 11. FILTER
-o	Bài 12. QUERY
-o	Bài 13. Kỹ thuật Ghép LEGO
-o	Bài 14. SCAN
-o	Bài 15. REDUCE
-o	Bài 16. REGEX
-o	Bài 17. Dashboard (vẽ biểu đồ dạng bảng kê, dạng chart...)
-o	Bài 18. Kỹ thuật cộng
-o	Bài 19. PIVOT TABLE
-o	Bài 20. Tổng hợp dữ liệu từ nhiều sheet về 1 sheet
-o	Bài 21. Tổng hợp dữ liệu từ nhiều file về 1 sheet
-o	Bài 22. Hyperlink và tra soát dữ liệu
-o	Bài 23. Thực hành xây dựng mô hình thiết kế dữ liệu
-o	Bài 24. Thực hành xây dựng phần mềm chuyên sâu (tùy đối tượng)
+Bài 01. Mở đầu - Làm quen Google Sheets
+Bài 02. Kỹ năng cơ bản
+Bài 03. Xác thực dữ liệu (Data Validation)
+Bài 04. Công thức mảng cơ bản
+Bài 05. UNIQUE, IF, SUMIF, COUNTIF
+Bài 06. XLOOKUP
+Bài 07. VSTACK, HSTACK
+Bài 08. LET, CHOOSECOLS, CHOOSEROWS
+Bài 09. XMATCH
+Bài 10. Hàm Google Sheets thông dụng khác
+Bài 11. FILTER
+Bài 12. QUERY
+Bài 13. Kỹ thuật Ghép LEGO
+Bài 14. SCAN
+Bài 15. REDUCE
+Bài 16. REGEX
+Bài 17. Dashboard (vẽ biểu đồ dạng bảng kê, dạng chart...)
+Bài 18. Kỹ thuật cộng
+Bài 19. PIVOT TABLE
+Bài 20. Tổng hợp dữ liệu từ nhiều sheet về 1 sheet
+Bài 21. Tổng hợp dữ liệu từ nhiều file về 1 sheet
+Bài 22. Hyperlink và tra soát dữ liệu
+Bài 23. Thực hành xây dựng mô hình thiết kế dữ liệu
+Bài 24. Thực hành xây dựng phần mềm chuyên sâu (tùy đối tượng)
 Bài 24.1. Thực hành xây dựng hệ thống quản lý văn bản
 Bài 24.2 Thực hành xây dựng hệ thống quản lý thu chi
 Bài 24.3 Thực hành xây dựng hệ thống phần mềm kế toán
